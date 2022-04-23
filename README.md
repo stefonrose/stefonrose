@@ -40,18 +40,11 @@
 <br/>
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefonrose&hide_border=true&layout=compact&theme=dark&langs_count=10" align="center" /></div>  
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dark" align="center" /></div>  
-
-
-<br/>
-<br/>
-<br/>  
-
 <div align="center">
-<img src"https://github.com/stefonrose/github-stats-transparent/blob/output/generated/overview.svg" />
-<img src"https://github.com/stefonrose/github-stats-transparent/blob/output/generated/languages.svg" />
+  
+ ![](https://github.com/stefonrose/github-stats-transparent/blob/output/generated/overview.svg)
+ ![](https://github.com/stefonrose/github-stats-transparent/blob/output/generated/languages.svg)
+
 </div>
 
 <br/>
