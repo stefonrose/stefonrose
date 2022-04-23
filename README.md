@@ -69,7 +69,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefonrose&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dark" align="center" /></div>  
 
 <br/> 
  
@@ -77,7 +77,7 @@
 <br/><br/><br/>  
   
 
-### div align="center">🎶 Listening to ... 🎶</div>
+### <div align="center">🎶 Listening to ... 🎶</div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=stefonrose1&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
 
