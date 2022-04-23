@@ -50,8 +50,8 @@
 <br/>  
 
 <div align="center">
-![](https://github.com/stefonrose/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/stefonrose/github-stats/blob/master/generated/languages.svg)
+<img src"https://github.com/stefonrose/github-stats/blob/master/generated/overview.svg" /></div>
+<img src"https://github.com/stefonrose/github-stats/blob/master/generated/languages.svg" /></div>
 </div>
 
 <br/>
