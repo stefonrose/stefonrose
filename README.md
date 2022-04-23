@@ -1,4 +1,4 @@
-<div align="center">
+<<div align="center">
 <img src="https://i.imgur.com/OCyDQuP.png" align="center" style="width: 100%" />
 </div>  
   
@@ -18,7 +18,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -42,7 +42,7 @@
 
 
 ### Tools  
-<div align="center">  
+<div align="right">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
@@ -67,17 +67,12 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefonrose&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
+<br/> 
+ 
 
 <br/><br/><br/>  
   
