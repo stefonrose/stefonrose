@@ -50,8 +50,8 @@
 <br/>  
 
 <div align="center">
-<img src"https://github.com/stefonrose/github-stats-transparent/blob/master/generated/overview.svg" /></div>
-<img src"https://github.com/stefonrose/github-stats-transparent/blob/master/generated/languages.svg" /></div>
+<img src"https://github.com/stefonrose/github-stats-transparent/blob/output/generated/overview.svg" /></div>
+<img src"https://github.com/stefonrose/github-stats-transparent/blob/output/generated/languages.svg" /></div>
 
 </div>
 
