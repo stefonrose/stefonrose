@@ -77,6 +77,8 @@
 <br/><br/><br/>  
   
 
+### 🎶 Listening to ...
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=stefonrose1&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
@@ -87,9 +89,6 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!---
 stefonrose/stefonrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
