@@ -5,6 +5,18 @@
 
 ### <div align="center">My name is Stephon and I'm a full-time software engineer.</div>  
 <div align="center">🌱 I’m currently developing my front-end development skills by learning ReactJS and more advanced HTML/CSS.</div>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+  
+ ![](https://github.com/stefonrose/github-stats-transparent/blob/output/generated/overview.svg)
+ ![](https://github.com/stefonrose/github-stats-transparent/blob/output/generated/languages.svg)
+
+</div>
+
   
 <br/>
 <br/>
@@ -36,16 +48,6 @@
 </a>  
 </div>  
 
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-  
- ![](https://github.com/stefonrose/github-stats-transparent/blob/output/generated/overview.svg)
- ![](https://github.com/stefonrose/github-stats-transparent/blob/output/generated/languages.svg)
-
-</div>
 
 <br/>
 <br/>
