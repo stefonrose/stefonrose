@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 <img src="https://i.imgur.com/OCyDQuP.png" align="center" style="width: 100%" />
 </div>  
   
@@ -77,7 +77,7 @@
 <br/><br/><br/>  
   
 
-### 🎶 Listening to ...
+### div align="center">🎶 Listening to ... 🎶</div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=stefonrose1&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
 
