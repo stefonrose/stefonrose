@@ -44,6 +44,16 @@
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dark" align="center" /></div>  
 
+
+<br/>
+<br/>
+<br/>  
+
+<div align="center">
+![](https://github.com/stefonrose/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/stefonrose/github-stats/blob/master/generated/languages.svg)
+</div>
+
 <br/>
 <br/>
 <br/>  
