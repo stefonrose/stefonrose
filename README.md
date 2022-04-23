@@ -6,7 +6,6 @@
 ### <div align="center">My name is Stephon and I'm a full-time software engineer.</div>  
 <div align="center">🌱 I’m currently developing my front-end development skills by learning ReactJS and more advanced HTML/CSS.</div>
   
-
 <br/>
 <br/>
 <br/>
@@ -24,10 +23,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-
-<br/>  
-
-
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 <a href="https://github.com/stefonrose" target="_blank">
@@ -37,37 +35,22 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
+<br/>
+<br/>
+<br/>
 
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefonrose&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stefonrose&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dark" align="center" /></div>  
 
-<br/> 
- 
-
 <br/>
 <br/>
 <br/>  
-  
 
 ### <div align="center">🎶 Listening to ... 🎶</div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=stefonrose1&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
 <!---
 stefonrose/stefonrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
