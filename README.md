@@ -7,8 +7,6 @@
 <div align="center">🌱 I’m currently developing my front-end development skills by learning ReactJS and more advanced HTML/CSS.</div>
 
 <br/>
-<br/>
-<br/>
 
 <div align="center">  
     
@@ -16,15 +14,13 @@
 ![](https://github.com/stefonrose/github-stats-transparent/blob/output/generated/languages.svg)
     
 </div>
-  
-<br/>
-<br/>
+
 <br/>
 
 <details align="center"> 
 <summary>
     
-## Languages, Tools & Skills
+## Languages, Tools & Skills :computer:
 
 </summary>
     
@@ -57,11 +53,10 @@
  
 </details>
  
-
 <details align="center"> 
 <summary>
 
-## Find me elsewhere
+## Find me elsewhere :globe_with_meridians:
     
 </summary>
     
@@ -73,11 +68,20 @@
     
 </details>
 
-<br/>  
+<details align="center"> 
+<summary>
 
-#### <div align="center">🎶 Listening to ... 🎶</div>
+#### Listening to ... 🎶
+    
+</summary>
+    
+<br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=stefonrose1&cover_image=true&theme=default&bar_color_cover=true" /></div>
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=stefonrose1&cover_image=true&theme=default&bar_color_cover=true" />
+</div>
+</details>
+
 <!---
 stefonrose/stefonrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
