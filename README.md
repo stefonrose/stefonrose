@@ -68,7 +68,7 @@
     
 </details>
 
-<details align="center"> 
+<details open="true" align="center"> 
 <summary>
 
 #### Listening to ... 🎶
